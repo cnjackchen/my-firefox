@@ -1,1 +1,1 @@
-# my-firefox v2.6.7
+# MyFirefox v2.6.7
